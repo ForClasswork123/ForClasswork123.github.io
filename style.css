@@ -2,3 +2,16 @@ body {
     text-align: center;
     font-family: Verdana;
 }
+td {
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
